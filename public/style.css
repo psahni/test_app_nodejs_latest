@@ -1,0 +1,15 @@
+.box {
+    color: white;
+    animation-duration: 3s;
+    animation-name: spin;
+    font-size: 1.35em;
+    height: 200px;
+    width: 200px;
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family:"Verdana, Geneva, Tahoma, sans-serif";
+    font-weight: 700;
+    border: 1px solid blue;
+} 
